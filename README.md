@@ -1,6 +1,6 @@
 # ziggy-soundcloud
 
-![NPM](https://nodei.co/npm/ziggy-soundcloud.png?downloads=true)](https://npmjs.org/package/ziggy-soundcloud)
+[![NPM](https://nodei.co/npm/ziggy-soundcloud.png?downloads=true)](https://npmjs.org/package/ziggy-soundcloud)
 
 soundcloud plugin for [ziggy](https://github.com/jarofghosts/ziggy) irc bot.
 
