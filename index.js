@@ -1,6 +1,5 @@
 var req = require('request');
 var shorturl = require('shorturl');
-// var clientId = 'c23df04aed9a788cd31fd5b100f22a7a';
 
 module.exports = function(ziggy, settings) {
 
