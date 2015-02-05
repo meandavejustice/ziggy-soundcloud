@@ -1,0 +1,36 @@
+{
+  "name": "ziggy-soundcloud",
+  "version": "1.0.0",
+  "description": "soundcloud plugin for ziggy irc bot",
+  "main": "index.js",
+  "dependencies": {
+    "shorturl": "^0.0.3",
+    "request": "^2.53.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meandavejustice/ziggy-soundcloud.git"
+  },
+  "keywords": [
+    "soundcloud",
+    "stream",
+    "urls",
+    "irc",
+    "chat",
+    "chatboi",
+    "chatgrrl",
+    "chatz",
+    "ziggy",
+    "bot"
+  ],
+  "author": "meandave",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/meandavejustice/ziggy-soundcloud/issues"
+  },
+  "homepage": "https://github.com/meandavejustice/ziggy-soundcloud"
+}
